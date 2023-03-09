@@ -34,3 +34,4 @@ $stmt->close();
 $conn->close();
 ?>
 
+<p><a href="index.html">Go back to Signup Page</a></p>
